@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gifted87
-- 👀 I’m interested in both frontend and backend development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in AI with Python 
+- 🌱 I’m currently building helpful open-source Python
 - 💞️ I’m looking to collaborate on great Projects
 - 📫 How to reach me - braimahgifted@gmail.com
 
